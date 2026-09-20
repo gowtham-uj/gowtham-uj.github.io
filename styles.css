@@ -165,7 +165,7 @@ footer {
   justify-content: space-between;
   gap: 20px;
   padding: 28px 0 46px;
-  color: #71717a;
+  color: var(--muted);
   font-size: 0.8rem;
 }
 
